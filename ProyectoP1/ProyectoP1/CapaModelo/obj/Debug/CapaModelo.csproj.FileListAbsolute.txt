@@ -1,0 +1,6 @@
+C:\Users\wilbe\OneDrive\Escritorio\PracticaMVC\PracticaMVC\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\wilbe\OneDrive\Escritorio\PracticaMVC\PracticaMVC\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\wilbe\OneDrive\Escritorio\PracticaMVC\PracticaMVC\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\PracticaMVC\PracticaMVC\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\wilbe\OneDrive\Escritorio\PracticaMVC\PracticaMVC\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\wilbe\OneDrive\Escritorio\PracticaMVC\PracticaMVC\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
